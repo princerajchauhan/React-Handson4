@@ -1,0 +1,32 @@
+
+
+#head{
+    display:flex;
+     justify-content: space-between ;
+      align-items: center;
+}
+
+h1{
+    font-size: 42px;
+}
+
+#headBtn{
+    padding: 10px 30px;
+    font-size: 22px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+
+#headBtn:hover{
+    filter: drop-shadow(0 0 15px rgb(162, 159, 159));
+}
+
+
+#tblStyle{
+    width: 100%;
+    text-align: right;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}

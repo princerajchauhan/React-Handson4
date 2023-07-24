@@ -1,0 +1,20 @@
+
+nav{
+    background-color: #090974;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    align-items: center;
+    padding: 0 180px;
+}
+
+.navStyle {
+    text-decoration: none;
+     color: white
+}
+
+
+.active{
+    color: rgb(239, 184, 184);
+}
